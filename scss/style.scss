@@ -3,6 +3,7 @@
 }
 
 @import 'normalize';
+
 body {
     background-image: linear-gradient(#e22b6a, #fd4e33);
     background-size: cover;
@@ -86,5 +87,8 @@ body {
 	    &__link {
             text-decoration: none;
 	    	color: #ea355a;
+            &:hover {
+                color: #ff000d;
+            }
 	    }
 }

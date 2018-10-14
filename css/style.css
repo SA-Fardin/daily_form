@@ -433,3 +433,5 @@ body {
   .popup__link {
     text-decoration: none;
     color: #ea355a; }
+    .popup__link:hover {
+      color: #ff000d; }
